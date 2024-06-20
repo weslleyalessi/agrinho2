@@ -1,12 +1,17 @@
-.titulo1{
-    justify-content: center
+body{
+    background-color: aquamarine;
 }
 
 
-
-
-.paragrafo1{
+.titulo1{
     justify-content: center;
     text-align: center;
-    color: aquamarine;
+    color: blueviolet;
+}
+
+.paragrafo1{
+	text-align: center;
+    justify-content: left;
+    text-align: left;
+    color: green;
 }
