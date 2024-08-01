@@ -18,3 +18,14 @@ body{
 .alimentos{
     font-size: 20px;
 }
+
+.p1{
+    padding: 20px;
+}
+
+.ul{
+    display: inline block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
