@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: linear-gradient(to bottom left, white, green);
+    background-image: linear-gradient(to bottom right, rgb(164, 230, 210), green);
 }
 
 .titulo_lista{
