@@ -50,6 +50,14 @@ body{
     width: 50%;
 }
 
-.t1, .t2, .t3{
-    background-color: cadetblue);
+.t1{
+    background-color: cadetblue;
+}
+
+.t2{
+    background-color: cadetblue;
+}
+
+.t3{
+    background-color: cadetblue;
 }
