@@ -27,6 +27,10 @@ body{
     padding: 20px;
 }
 
+.primeira_parte{
+    font-size: 20px;
+}
+
 .ul{
     display: inline block;
     vertical-align: top;
