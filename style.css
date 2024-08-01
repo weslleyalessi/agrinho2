@@ -17,5 +17,5 @@ body{
 
 .alimentos{
     font-size: 20px;
-    background-color: cadetblue;
+    background-image: linear-gradient(to bottom rightm green, white);
 }
